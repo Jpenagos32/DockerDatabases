@@ -1,12 +1,7 @@
 # Bases de datos para docker con docker compose
 
-- [Directorio Postgres](#directorio-postgres)
 - [Corriendo Bases de datos con docker](#corriendo-bases-de-datos-con-docker)
-
-
-## Directorio Postgres
-
-Dentro de este directorio se encuentra el docker compose para la base de datos postgres, cuenta con un volumen para dicha base de datos
+- [Directorio Postgres](#directorio-postgres)
 
 ## Corriendo bases de datos con docker
 
@@ -21,3 +16,7 @@ Dentro de este directorio se encuentra el docker compose para la base de datos p
 5. Probar la conexión a la base de datos desde la terminar o desde la aplicacion gráfica del RDBMS de nuestra preferencia
 
 6. La base de datos ya se encuentra lista para ser utilizada
+
+## Directorio Postgres
+
+Dentro de este directorio se encuentra el docker compose para la base de datos postgres, cuenta con un volumen para dicha base de datos
