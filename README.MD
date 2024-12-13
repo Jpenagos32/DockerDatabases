@@ -1,7 +1,14 @@
 # Bases de datos para docker con docker compose
 
+- [Notas Aclaratorias (Importante)](#notas-aclaratorias)
 - [Corriendo Bases de datos con docker](#corriendo-bases-de-datos-con-docker)
 - [Directorio Postgres](#directorio-postgres)
+- [Directorio MySQL](#directorio-mysql)
+
+
+## Notas Aclaratorias (Importante)
+
+Las bases de datos presentes en este repositorio son unicamente para uso en ambiente de desarrollo, por ningun motivo deben ser usadas en producción
 
 ## Corriendo bases de datos con docker
 
@@ -20,3 +27,7 @@
 ## Directorio Postgres
 
 Dentro de este directorio se encuentra el docker compose para la base de datos postgres, cuenta con un volumen para dicha base de datos
+
+## Directorio MySQL
+
+Dentro de este directorio se encuentra el docker compose para la base de datos MySQL, cuenta con un volumen para dicha base de datos
