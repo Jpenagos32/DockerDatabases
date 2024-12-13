@@ -18,7 +18,7 @@ Las bases de datos presentes en este repositorio son unicamente para uso en ambi
 
 3. En dicha carpeta abrir una terminal
 
-4. Ejecutar el `comando docker compose up` (opcionalmente se puede agregar la etiqueta `-d` para que se ejecute en modo detach)
+4. Ejecutar el `comando docker compose up` (opcionalmente se puede agregar la etiqueta `-d` para que se ejecute en modo detach, la terminal utilizada para correr el `docker-compose.yml` no se debe cerrar si no se utiliza la etiqueta `-d`)
 
 5. Probar la conexión a la base de datos desde la terminar o desde la aplicacion gráfica del RDBMS de nuestra preferencia
 
